@@ -14,9 +14,8 @@ app = Flask(__name__)
 
 # Replace 'video_urls' with the actual video URLs from Cloudinary
 video_urls = [
-    "https://res.cloudinary.com/dam12ojlp/video/upload/v1703835362/reels/vid3_m2zxrz.mp4",
-    "https://res.cloudinary.com/dam12ojlp/video/upload/v1703835362/reels/vid2_wfqzv7.mp4",
     "https://res.cloudinary.com/dam12ojlp/video/upload/v1703835359/reels/vid1_eq0z7e.mp4"
+
     # Add more video URLs as needed
 ]
 
